@@ -1,4 +1,5 @@
 // src/components/Chat.tsx
+// Add a comment
 import React, { useEffect, useState } from 'react';
 import { v4 as uuidv4 } from 'uuid'
 import { io, Socket } from 'socket.io-client'
